@@ -2,7 +2,7 @@
 - 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Django
-- 📫 <a href="https://www.linkedin.com/in/ashish-jakhar-050b14229/" Linkdin </a>
+- 📫 Linkdin: https://www.linkedin.com/in/ashish-jakhar-050b14229/
 
 
 <!---
